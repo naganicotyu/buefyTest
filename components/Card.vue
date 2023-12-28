@@ -22,7 +22,7 @@
       <footer class="card-footer">
         <div class="card-footer-item">
           <span>
-            <slot />
+            
           </span>
         </div>
       </footer>
