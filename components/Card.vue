@@ -8,12 +8,12 @@
       </header>
       <div class="card-content">
         <b-field label="下記のフォームに入力をしてください。">
-            <b-input v-model="name"></b-input>
+          <b-input v-model="name"></b-input>
         </b-field>
 
-    <section>
-        <b-button  @click="clickMe" >Click Me</b-button>
-    </section>
+        <section>
+          <b-button @click="clickMe">Click Me</b-button>
+        </section>
 
         <div class="content has-text-centered">
           <b-icon :icon="icon" size="is-large" type="is-primary" />
@@ -21,9 +21,7 @@
       </div>
       <footer class="card-footer">
         <div class="card-footer-item">
-          <span>
-            
-          </span>
+          <span> </span>
         </div>
       </footer>
     </div>

@@ -10,18 +10,13 @@
           <div>株式会社ABC</div>
         </a>
 
-        <div class="navbar-burger">
-
-        </div>
+        <div class="navbar-burger"></div>
       </div>
     </nav>
 
-
-
-      <div class="container column is-10">
-        <Nuxt />
-      </div>
-
+    <div class="container column is-10">
+      <Nuxt />
+    </div>
   </div>
 </template>
 
